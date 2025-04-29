@@ -3,8 +3,9 @@
 ## Group Details
 - Group Name: CloudMasters
 - Members:
-  - John Doe - 123456789
-  - Jane Doe - 987654321
+  - Adi Dagan - 318792579
+  - Ofri Gross- 322542820
+  - Ilay Gozlan - 318473295
 
 ## Project Overview
 A scalable, highly available, and secure web application hosted on AWS, following the AWS Well-Architected Framework principles.

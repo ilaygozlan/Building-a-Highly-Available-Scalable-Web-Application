@@ -22,10 +22,7 @@ A scalable, highly available, and secure web application hosted on AWS, followin
 Please see the `install_instructions.txt` file for detailed steps to set up the application.
 
 ## Links
-- [AWS Pricing Calculator Estimate](#) 
 - [Load Balancer URL](http://xyzloadbalancer-543429928.us-east-1.elb.amazonaws.com/)
-- [GitHub Repository](current repo)
-- [Load Testing Result Screenshot](included separately)
 
 ## Badge
 - [AWS Badge](#)

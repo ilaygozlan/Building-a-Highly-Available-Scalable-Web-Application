@@ -23,7 +23,7 @@ Please see the `install_instructions.txt` file for detailed steps to set up the 
 
 ## Links
 - [AWS Pricing Calculator Estimate](#) 
-- [Load Balancer URL](#)
+- [Load Balancer URL](#http://xyzloadbalancer-543429928.us-east-1.elb.amazonaws.com/)
 - [GitHub Repository](current repo)
 - [Load Testing Result Screenshot](included separately)
 
